@@ -1,9 +1,14 @@
 ![Starbucks Clone Deployment](https://github.com/user-attachments/assets/6b654f47-9537-4b88-9584-41c760fc49ac)
 
-# ☕ Deploy Starbucks Clone Application on AWS using DevSecOps 🛡️🚀
+# ☕ Starbucks DevSecOps Pipeline Project
 
-This project demonstrates a full DevSecOps CI/CD pipeline for securely deploying a Starbucks clone app using Jenkins, Docker, SonarQube, Trivy, OWASP Dependency Check, and Docker Scout — all deployed to AWS EC2.
+A full CI/CD DevSecOps pipeline to build, scan, and deploy a Starbucks clone application using Jenkins, Docker, SonarQube, Trivy, OWASP Dependency Check, and Docker Scout on AWS EC2.
 
+🔗 [Architecture Diagram (Eraser.io)](https://app.eraser.io/workspace/59NJfCay26dUMl5YAlFl?origin=share)
+
+📸 Screenshot:
+
+![Pipeline Screenshot](./assets/Screenshot%20from%202025-07-22%2014-21-31.png)
 🔗 [Eraser Workspace Diagram](https://app.eraser.io/workspace/59NJfCay26dUMl5YAlFl?origin=share)
 
 # **Install AWS CLI**
