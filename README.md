@@ -4,7 +4,7 @@
 
 A full CI/CD DevSecOps pipeline to build, scan, and deploy a Starbucks clone application using Jenkins, Docker, SonarQube, Trivy, OWASP Dependency Check, and Docker Scout — deployed to AWS.
 
-🔗 [Architecture Diagram (Eraser.io)](./STARBUCKS.png)
+![Architecture Diagram](./STARBUCKS.png)
 
 
 📸 **CI/CD-Pipeline Image**  
